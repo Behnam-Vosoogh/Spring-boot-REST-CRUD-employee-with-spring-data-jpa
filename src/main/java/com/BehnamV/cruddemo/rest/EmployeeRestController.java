@@ -1,6 +1,5 @@
 package com.BehnamV.cruddemo.rest;
 
-import com.BehnamV.cruddemo.dao.EmployeeDAO;
 import com.BehnamV.cruddemo.entity.Employee;
 import com.BehnamV.cruddemo.service.EmployeeService;
 import com.fasterxml.jackson.databind.ObjectMapper;

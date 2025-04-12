@@ -1,6 +1,5 @@
 package com.BehnamV.cruddemo.service;
 
-import com.BehnamV.cruddemo.dao.EmployeeDAO;
 import com.BehnamV.cruddemo.entity.Employee;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
